@@ -10,4 +10,8 @@ public class DemoClass {
 	public void addMethod() {
 		System.out.println("perform addition");
 	}
+	
+	public void subtractionMethod() {
+		System.out.println("perform subtraction");
+	}
 }
